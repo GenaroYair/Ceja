@@ -1,0 +1,52 @@
+<HTML>
+<HEAD>
+<TITLE>PAGINA WEB</TITLE>
+</HEAD>
+<BODY>
+<HR SIZE="30" COLOR="BLUE">
+<CENTER><FONT COLOR="BLUE" SIZE="200" FACE="Comic San">CECSA</FONT></CENTER>
+<CENTER><img src="p.gif" WIDTH="300" HEIGHT="100" BORDER="6"></CENTER>
+<CENTER>
+<big>
+<h1>¿Quienes Somos?</h1>
+<HR WIDTH="50%" COLOR="BLUE">
+<p><b><u>CECSA</u></b> es una constructora y desarrolladora con más de 26 años de experiencia<br> en la realización de proyectos residenciales, industriales y comerciales, tanto<br> para el sector público como el privado.<br>
+Nuestro objetivo es exceder las expectativas de nuestros clientes, al realizar<br> proyectos innovadores que cumplan con sus necesidades espaciales,<br> funcionales y estructurales, teniendo presente una construcción amigable con el medio ambiente<br> y con un alto control de calidad al mejor precio.</p>
+<HR WIDTH="50%" COLOR="BLUE">
+<CENTER><img src="HJ.jpg" WIDTH="800" HEIGHT="400"></CENTER>
+<HR WIDTH="50%" COLOR="BLUE">
+<p>Se creó en 1991 con el propósito de satisfacer de manera óptima e integral, las<br> necesidades de espacio e infraestructura que en su momento requerían las<br> empresas del <u><i>Grupo Columbia</i></u>.<br>
+Desde su creación, se ha ido diversificando en áreas como: administración de<br> bienes inmuebles, construcción y comercialización de proyectos inmobiliarios<br> para el ámbito comercial y residencial, obra de alta ingeniería y urbanismo,<br> proyectos llave en mano, entre otros.<br>Esta experiencia nos respalda, haciendo de <FONT COLOR="BLUE">CECSA</FONT> una empresa con gran nivel<br> profesional, competitivo y confiable que ofrece soluciones innovadoras e<br> integrales a sus clientes a bajo costo.</p>
+<HR WIDTH="50%" COLOR="BLUE">
+<h1>Vision y Mision</h1>
+<CENTER><img src="LM.jpg" WIDTH="800" HEIGHT="400"></CENTER>
+<HR WIDTH="50%" COLOR="BLUE">
+<p><b>Misi&oacuten:</b>Ofrecer soluciones integrales en el diseño, construcción y comercialización de<br> bienes inmuebles para uso residencial, comercial e industrial basados en la<br> innovación, sustentabilidad, funcionalidad y cumpliendo con los estándares de<br> calidad conforme a la normatividad vigente aplicable.</p>
+<p><b>Visi&oacuten:</b>Ser una empresa reconocida por la calidad en el diseño y construcción de sus<br> obras, así como por el desarrollo de negocio de proyectos inmobiliarios<br> innovadores y vanguardistas.</p>
+<HR WIDTH="50%" COLOR="BLUE">
+<h1>Valores</h1>
+<CENTER><img src="pk.jpg" WIDTH="800" HEIGHT="400"></CENTER>
+<HR WIDTH="50%" COLOR="BLUE">
+<p><b><i>Responsabilidad:</i></b> Somos causa de que las cosas sucedan. Lo que decimos lo<br> hacemos.<br><br>
+<b><i>Honestidad:</i></b> Somos transparentes con los clientes. Nuestras conversaciones<br> permiten generar condiciones de trabajo abiertas.<br><br><b><i>Confianza:</i></b>Fortalecemos nuestras relaciones brindando certidumbre a nuestros<br> clientes, colaboradores e inversionistas.<br><br>
+<b><i>Compromiso:</i></b> Somos dedicados. Vivimos nuestra misión y visión impulsándola<br> con nuestro entusiasmo, entrega y gusto por lo que realizamos.<br><br>
+<b><i>Innovación:</i></b> Vemos más allá de lo ordinario, proponiendo soluciones fuera de lo<br> común.<br><br>
+<b><i>Excelencia:</i></b> Nos esforzamos por brindar la mejor solución a nuestros clientes.<br><br><b><i>Eficiencia:</i></b> Optimizamos nuestros recursos: haciendo más con menos y <br>manteniendo la misma calidad de nuestros servicios.<br>
+<HR WIDTH="50%" COLOR="BLUE">
+<CENTER><img src="CE.jpg" WIDTH="800" HEIGHT="400"></CENTER><br><br>
+<HR WIDTH="50%" COLOR="BLUE">
+<b><i>Rentabilidad:</i></b> Nos aseguramos de que los recursos invertidos en los proyectos<br> tengan un beneficio.<br><br>
+<b><i>Flexibilidad:</i></b> Nos adaptamos a los requerimientos de nuestros clientes, somos<br> abiertos y escuchamos en beneficio de sus necesidades.<br><br>
+<b><i>Organización:</i></b> Nuestros proyectos los desempeñamos de manera planeada,<br> responsable y eficiente.
+</p>
+<HR WIDTH="50%" COLOR="BLUE">
+<h1>¿D&oacutende encontarnos?</h1>
+<p>Telef&oacuteno:<FONT COLOR="BLUE"><u>(555) 636 25 70</u></FONT><br>
+Contacto:<FONT COLOR="BLUE"><u>contacto@grupocecsa.com.mx</u></FONT><br>
+P&aacutegina:<FONT COLOR="BLUE"><u>https://www.laguiainmobiliaria.com.mx/agent/cecsa/</u></FONT><br>
+Facebook:<FONT COLOR="BLUE"><u>https://es-la.facebook.com/pages/biz/company/CECSA-606898209387571/</u></FONT></p>
+<HR SIZE="30" COLOR="BLUE">
+</big>
+</CENTER>
+</BODY>
+</HTML>
